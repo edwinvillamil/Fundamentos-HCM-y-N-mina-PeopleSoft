@@ -346,13 +346,6 @@ Se pueden considerar dos niveles de alcance:
                                                                 solucionario y
                                                                 validación
 
-  Ampliada                 62 h             8 h            70 h Mayor
-                                                                profundidad de
-                                                                ejercicios,
-                                                                adaptación al
-                                                                cliente y
-                                                                revisión
-                                                                adicional
   -----------------------------------------------------------------------------
 
 La alternativa recomendada de 60 horas ofrece un equilibrio entre
